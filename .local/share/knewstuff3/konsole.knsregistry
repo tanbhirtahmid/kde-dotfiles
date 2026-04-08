@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="462">
+  <name>Materia Dark KDE</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1462616</homepage>
+  <licence></licence>
+  <version>20210410</version>
+  <rating>69</rating>
+  <downloads>42519</downloads>
+  <installedfile>/home/sf/.local/share/konsole/MateriaDark.colorscheme</installedfile>
+  <id>1462616</id>
+  <releasedate>2021-04-10</releasedate>
+  <summary>&lt;p>Materia pack for Plasma 5 desktop.&lt;br />&lt;br />Please use Kvantum Engine and Theme for better looking:&lt;br />&lt;a href="https://www.pling.com/p/1229126">https://www.pling.com/p/1229126&lt;/a>&lt;br />&lt;br />Install full Materia pack from my collection.&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/43/80/78/1462616/b4bb3a89f35bc27503d3c14398f0787a300d0b625f00fb1c88406f8bb2c5b17bd446.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/43/80/78/1462616/b4bb3a89f35bc27503d3c14398f0787a300d0b625f00fb1c88406f8bb2c5b17bd446.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTYxODAzOTYwNywibyI6IjEiLCJzIjoiZDhjYzA3NzE3ZDE5NGIwODVmODliMzJiYjQ5NzJmOTFmZjljYzkzNDE0MTllYTNmZWE5MjZkODgxN2FhOTdjMDEwODJiMTYxNzAwNTY0MmUwZDE3NTk5YTRhMjA2OGY2MDRiY2U1MDFhZmQxYjE4ZmJjMWFmYzk5YTI2MGNhNWIiLCJ0IjoxNzc1MzMxNzk4LCJzdGZwIjpudWxsLCJzdGlwIjoiMTAzLjcuMjUwLjEyMiJ9.JcjkijxWz6HOHXnGYaqkJGNfu8LvQ8RI47ndV-oPdSE/MateriaDark.colorscheme</payload>
+  <tags>original-product,gplv3,dark,addon,kde,materia,material</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
