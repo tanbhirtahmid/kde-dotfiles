@@ -1,8 +1,6 @@
 [Desktop Entry]
-DefaultProfile=Profile 1.profile
+DefaultProfile=My color.profile
 
-[General]
-ConfigVersion=1
-
-[UiSettings]
-ColorScheme=
+[MainWindow]
+MenuBar=Disabled
+State[$d]

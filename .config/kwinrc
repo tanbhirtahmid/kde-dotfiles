@@ -1,12 +1,13 @@
 [Desktops]
-Id_1=bea39676-1695-45d0-8889-1f1ce0972e5b
-Id_2=50e8735a-402e-47b7-8bba-0cf297492356
-Id_3=81da7b03-be94-4c5f-9a92-846e0e5736e5
-Number=3
+Id_1=60269a40-41f2-4580-8ec2-4cd1e1d2639b
+Id_2=547f7362-2e67-4ed0-b4cb-f32fd399cbc0
+Id_3=a2b880dc-735f-4a97-9119-60d97e755dc4
+Id_4=b6eb417d-1cae-4fa9-a695-6b5a906ebb01
+Number=4
 Rows=1
 
 [Effect-slide]
-HorizontalGap=15
+HorizontalGap=20
 SlideBackground=false
 
 [Plugins]
@@ -16,15 +17,71 @@ dynamic_workspacesEnabled=true
 DesktopMode=0
 HighlightWindows=false
 
-[Tiling][50e8735a-402e-47b7-8bba-0cf297492356][b04a6819-be39-4ffb-ba5e-63168f65c8b9]
+[Tiling][04061bba-2886-42f8-b68f-9cf442ec8164][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
-[Tiling][81da7b03-be94-4c5f-9a92-846e0e5736e5][b04a6819-be39-4ffb-ba5e-63168f65c8b9]
+[Tiling][4a3f9b66-bdf5-48bc-b4a5-c9984bc95563][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
-[Tiling][bea39676-1695-45d0-8889-1f1ce0972e5b][b04a6819-be39-4ffb-ba5e-63168f65c8b9]
+[Tiling][547f7362-2e67-4ed0-b4cb-f32fd399cbc0][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][60269a40-41f2-4580-8ec2-4cd1e1d2639b][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][645df404-e1b9-4ef2-8565-bd8d85e24915][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][6e3a2685-39e5-4190-98b9-4566b874358f][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][9b50916f-baab-4e7c-a547-28fa4ee2c1ea][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][a0b941dd-714c-4604-a8cf-8c7118b64977][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][a2b880dc-735f-4a97-9119-60d97e755dc4][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][a7c27cd9-c09c-469d-8763-c91715bdf03e][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][a90fa3ea-e625-4fc6-a5b7-785ad8df5923][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][b15be852-1d65-44aa-9454-43d1280db982][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][b6eb417d-1cae-4fa9-a695-6b5a906ebb01][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][c979072f-b4c3-4c02-81db-11c69e62178e][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][ce6caa46-0b92-4845-bbff-d8151a36b264][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][d8434c05-cbe9-4100-a252-166e4721ceb0][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][ef220149-57ca-48bf-9c6b-ef4fba1a1e0d][b4723c78-b884-4c0d-a1f1-64c17a87d8c6]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
@@ -32,8 +89,8 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 RollOverDesktops=true
 
 [Xwayland]
-Scale=1.1
+Scale=1.15
 
 [org.kde.kdecoration2]
-library=org.kde.kwin.aurorae.v2
-theme=__aurorae__svg__ChameleonDark
+library=org.kde.breeze
+theme=Breeze
